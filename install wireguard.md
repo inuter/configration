@@ -1,5 +1,6 @@
 # 安装 wireguard 教程
-Author: liming    Create: Thu Tue Jan 22 2019
+Author: liming    
+Create: Thu Tue Jan 22 2019
 
 > 参考资料：   
 > 1. [wireguard官网](https://www.wireguard.com/)   
