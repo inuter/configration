@@ -84,7 +84,7 @@ PublicKey = j49mp2kJUXWuYY5YjcfTAz+ncKcMD9joMSgXTXp96ks=
 # 客户端全写 0.0.0.0/0
 AllowedIPs = 0.0.0.0/0
 # Endpoint 为服务器端的公网地址，可用写 IP，也可用域名
-Endpoint = wireguard.lili.today:51820
+Endpoint = your ip address or domain:51820
 # Send periodic keepalives to ensure connection stays up behind NAT
 PersistentKeepalive = 25
 ```
