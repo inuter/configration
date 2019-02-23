@@ -15,6 +15,10 @@ $ git push -u origin master
 $ git remote add origin git@github.com:inuter/demo.git
 $ git push -u origin master
 ```
+3. pull an existing repository from the command line
+```sh
+$ git pull origin master
+```
 
 命令 | 功能
 ----|----
