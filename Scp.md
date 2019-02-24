@@ -34,7 +34,7 @@ scp username@servername:/path/filename /local_dir
 
 3. 从服务器下载整个目录
 ```sh
-scp -r username@servername:/remote_dir  /local_dir（本地目录）
+scp -r username@servername:/remote_dir  /local_dir
 ```
 
 4. 上传整个目录到服务器
